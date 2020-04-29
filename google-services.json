@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193901579353",
+    "firebase_url": "https://chatapp-93474.firebaseio.com",
+    "project_id": "chatapp-93474",
+    "storage_bucket": "chatapp-93474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193901579353:android:3b0550c52121a8642a7548",
+        "android_client_info": {
+          "package_name": "com.sushil.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193901579353-orpnu7a8l9ijovmgtjeee0kvjovjg622.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeAg-tNkt9wLzqrijKRuwYyPnGz40YQVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193901579353-orpnu7a8l9ijovmgtjeee0kvjovjg622.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
